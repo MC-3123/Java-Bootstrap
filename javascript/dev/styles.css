@@ -1,0 +1,46 @@
+
+.collapse {
+	display: none;
+}
+	
+.radio-container {				
+	padding: 5px 5px;
+}		
+	
+.radio-container .col-sm-2
+{
+	padding-right: 5px;
+	padding-left: 5px;
+}
+	
+.radio-container .radio-inline{				
+	height: 100%;
+}
+	
+.radio-container .detail {				
+	margin-left: -20px;
+	padding-top: 5px;
+}						
+	
+.radio-container .radio-wrapper
+{
+	padding: 5px;
+	height: 125px;
+	overflow: hidden;			
+	background-color: WhiteSmoke;				
+} 
+	
+.radio-container .radio-wrapper.active
+{
+	background-color: Gainsboro;			
+} 
+	
+.radio-container .radio-wrapper:hover
+{
+	 filter: brightness(80%);
+}			
+	
+.button-container button{
+	margin-bottom: 10px;
+}
+
